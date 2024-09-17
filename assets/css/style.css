@@ -13,3 +13,8 @@ html {
   width: min(100% - 32px, 1000px);
   margin-inline: auto;
 }
+
+h1{
+  color: blue;
+  font-weight: 800;
+}
