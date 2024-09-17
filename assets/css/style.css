@@ -14,7 +14,13 @@ html {
   margin-inline: auto;
 }
 
+main {
+  background-image: url(../img/blue-background.jpg) center 
+  center / cover 
+  no-repeat;
+}
+
 h1{
-  color: blue;
+  color: #fff;
   font-weight: 800;
 }
